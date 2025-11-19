@@ -8,7 +8,7 @@ Part of [100 Days of AI & ML Challenge](../)
 
 AI-powered resume analyzer that provides brutally honest feedback, ATS scoring, and actionable improvements.
 
-**Live Demo:** [https://your-app-link.streamlit.app](link)
+**Live Demo:** [http://100-days-of-ai-ml-mzdqwkfrz8hdt46svwwhqv.streamlit.app/](link)
 
 ## Features
 
@@ -83,13 +83,7 @@ Day-001-AI-Resume-Roaster/
 - [ ] Implement caching for faster results
 - [ ] Add analytics dashboard
 
-## Screenshots
 
-### Main Interface
-![Interface](screenshot1.png)
-
-### Analysis Results
-![Results](screenshot2.png)
 
 ## Time to Build
 
@@ -99,10 +93,6 @@ Day-001-AI-Resume-Roaster/
 - Testing: 30 min
 - Documentation: 30 min
 
-## Related Projects
-
-- [Day 002: Project Name](../Day-002-Project-Name)
-- [Day 015: Project Name](../Day-015-Project-Name)
 
 ## License
 
