@@ -8,7 +8,7 @@ Part of [100 Days of AI & ML Challenge](../)
 
 AI-powered resume analyzer that provides brutally honest feedback, ATS scoring, and actionable improvements.
 
-**Live Demo:** [http://100-days-of-ai-ml-mzdqwkfrz8hdt46svwwhqv.streamlit.app/](link)
+**Live Demo:** [https://100-days-of-ai-ml-mzdqwkfrz8hdt46svwwhqv.streamlit.app/](link)
 
 ## Features
 
