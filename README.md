@@ -22,7 +22,7 @@ I'm Vipin Mishra, a Machine Learning enthusiast focusing on AI automation, deep 
 
 | Day | Project | Tech Stack | Status | Demo |
 |-----|---------|-----------|--------|------|
-| 001 | [AI Resume Roaster](./Day-001-AI-Resume-Roaster) | Streamlit, Gemini AI, Python | ✅ Complete | [Live Demo](link) |
+| 001 | [AI Resume Roaster](./Day-001-AI-Resume-Roaster) | Streamlit, Gemini AI, Python | ✅ Complete | [Live Demo](https://100-days-of-ai-ml-mzdqwkfrz8hdt46svwwhqv.streamlit.app/) |
 | 002 | Project Name | Tech | 🚧 In Progress | - |
 | 003 | Project Name | Tech | ⏳ Planned | - |
 | ... | ... | ... | ... | ... |
@@ -148,3 +148,4 @@ MIT License - Feel free to use these projects for learning!
 **Current Streak:** 🔥 1 day
 
 > "The only way to learn is by doing. 100 days, 100 projects, infinite learning."
+
