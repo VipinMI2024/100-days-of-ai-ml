@@ -5,9 +5,10 @@ from typing import Dict
 class AIResumeAnalyzer:
     """Analyze resume using Google Gemini AI with roasting capability"""
     
-    def __init__(self, api_key: str, model_name: str = "gemini-2.0-flash-exp"):
+    def __init__(self, api_key: str, model_name: str = "gemini-1.5-flash"):
         genai.configure(api_key=api_key)
-        self.model = genai.GenerativeModel(model_name)
+        # Always use gemini-1.5-flash (most stable)
+        self.model = genai.GenerativeModel("gemini-1.5-flash")
     
     def analyze_resume(self, resume_text: str, roast_level: str = "medium") -> Dict:
         """
