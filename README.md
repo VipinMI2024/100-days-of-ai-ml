@@ -129,6 +129,7 @@ MIT License - Feel free to use these projects for learning!
 **Expected Completion:** February 26, 2026  
 **Current Streak:** 🔥 3 day
 
-> "The only way to learn is by doing. 100 days, 100 projects, infinite learning."
+> "The only way to learn is by doing. 100 days, 100 projects, infinite learning"
+
 
 
