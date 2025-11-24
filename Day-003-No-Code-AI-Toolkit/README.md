@@ -436,16 +436,7 @@ YES! Build services around them and sell to clients.
 
 ---
 
-## Contributing
 
-Have a new template? Found a bug? Want to improve?
-
-1. Fork this repo
-2. Add your template
-3. Create PR
-4. We'll review and merge!
-
----
 
 ## License
 
@@ -457,3 +448,4 @@ MIT - Use freely, modify, sell!
 
 
 ⭐ Star this repo if it helps!
+
