@@ -18,15 +18,6 @@ I'm Vipin Mishra, a Machine Learning enthusiast focusing on AI automation, deep 
 4. Document learnings and challenges in progress.md
 5. Projects range from simple scripts to full applications
 
-## Progress Tracker
-
-| Day | Project | Tech Stack | Status | Demo |
-|-----|---------|-----------|--------|------|
-| 001 | [AI Resume Roaster](./Day-001-AI-Resume-Roaster) | Streamlit, Gemini AI, Python | ✅ Complete | [Live Demo](https://100-days-of-ai-ml-mzdqwkfrz8hdt46svwwhqv.streamlit.app/) |
-| 002 | Project Name | Tech | 🚧 In Progress | - |
-| 003 | Project Name | Tech | ⏳ Planned | - |
-| ... | ... | ... | ... | ... |
-
 ## Categories
 
 ### AI Automation (20 projects)
@@ -104,15 +95,6 @@ I'm Vipin Mishra, a Machine Learning enthusiast focusing on AI automation, deep 
 4. **Push to GitHub:** Commit and push before end of day
 5. **Social Share:** Post update on LinkedIn/Twitter
 
-## Learning Resources
-
-See [resources.md](./resources.md) for:
-- Online courses
-- YouTube channels
-- Books
-- Papers
-- Tools and libraries
-
 ## Milestones
 
 - ✅ **Day 1:** Started the challenge!
@@ -145,7 +127,9 @@ MIT License - Feel free to use these projects for learning!
 
 **Challenge Started:** November 19, 2025  
 **Expected Completion:** February 26, 2026  
-**Current Streak:** 🔥 1 day
+**Current Streak:** 🔥 3 day
 
-> "The only way to learn is by doing. 100 days, 100 projects, infinite learning."
+> "The only way to learn is by doing. 100 days, 100 projects, infinite learning"
+
+
 
