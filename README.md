@@ -79,12 +79,6 @@ I'm Vipin Mishra, a Machine Learning enthusiast focusing on AI automation, deep 
 <details>
 <summary>Click to expand full project list</summary>
 
-### Week 1-2: Getting Started
-- [x] Day 1: AI Resume Roaster
-
-
-(Continue for 100 days...)
-
 </details>
 
 ## Daily Workflow
@@ -130,6 +124,7 @@ MIT License - Feel free to use these projects for learning!
 **Current Streak:** 🔥 5 day
 
 > "The only way to learn is by doing. 100 days, 100 projects, infinite learning"
+
 
 
 
